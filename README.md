@@ -1,16 +1,16 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>👋 </h2>
 
 ## Social Presence 🤝
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/favour-uduose)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:chintusamala96@gmail.com"/>](mailto:uduosefavour1199@gmail.com)
-[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://wwww.favouruduose.com)
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Iamfavur)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](www.linkedin.com/in/worthy-bernard-77b58518b)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:worthyizuchukwu@gmail.com"/>](mailto:worthyizuchukwu@gmail.com)
+[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />]
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/bernance__)
 
 ---
 
 ## About Me 🙋
 
-&nbsp;&nbsp;&nbsp;I am a full stack developer with a passion driven development having **3+ years of experience.** I am super enthusiast to build products from scratch by experimenting with different technologies. I love to contribute my knowledge and experience to open source projects.
+&nbsp;&nbsp;&nbsp;I am a machine learning engineer and a Backend engineer **3+ years of experience.** I help businesses make smarter decisions using data. Skilled in Python, SQL & storytelling through dashboards. I love to contribute my knowledge and experience to open source projects.
 
 ## Skill Set 💪
 
@@ -18,7 +18,6 @@
 
 #### **Top Programming Languages:**
 
-[<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />]()
 [<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />]()
@@ -85,7 +84,6 @@
 
 #### **Databases:**
 
-[<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />]()
